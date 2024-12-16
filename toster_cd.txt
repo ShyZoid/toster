@@ -1,4 +1,4 @@
-Ja 
+Ja
 Jaba 
 In  
 Toster 
@@ -16,3 +16,4 @@ DIE
 *Toster
 crying*
 dyhovka new
+really new
